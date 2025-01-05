@@ -1,0 +1,16 @@
+__pycache__
+.idea
+.venv
+.vscode
+*.egg-info
+build
+logs
+temp
+dist
+examples
+docker-compose.yaml
+allqueries.txt
+goodqueries.txt
+badqueries.txt
+mac_lookup.txt
+*.zip
